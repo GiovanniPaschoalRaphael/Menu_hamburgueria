@@ -31,3 +31,5 @@ pronto o sistema está no servidor local <br>
 ![image](https://user-images.githubusercontent.com/55327081/213806344-65a0b790-2242-4b15-98b0-da68574998e9.png)
 
 ![image](https://user-images.githubusercontent.com/55327081/213806370-c1fe46a5-a5aa-4cee-a243-fb1400881bf5.png)
+
+cole este caminho na sua barra de pesquisas do navegador para acessar o projeto http://localhost/Menu_Hamburgueria/
